@@ -12,3 +12,6 @@ Snowflake Cortex Demo on Wine Reviews
 - Text-to-SQL model for more structured queries into wine review dataset
     - Create semantic model using semantic model generator tool
     - Use cortex analyst to set up text to sql LLM
+
+
+Data sourced from https://www.kaggle.com/datasets/manyregression/updated-wine-enthusiast-review (Public Domain)
